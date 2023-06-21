@@ -1,0 +1,19 @@
+body {
+    background-color: aqua
+    }
+
+h1{
+    background-color: red;
+    text-align: center;
+    color: white;
+}  
+.skyblue {
+    background-color: skyblue;
+}
+h1{
+    background-color: tomato;
+}
+.red {
+    background-color: red;
+    color: aliceblue;
+}
